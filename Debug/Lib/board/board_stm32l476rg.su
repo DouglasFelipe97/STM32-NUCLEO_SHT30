@@ -1,0 +1,2 @@
+../Lib/board/board_stm32l476rg.c:44:8:board_sht30_write	48	static
+../Lib/board/board_stm32l476rg.c:62:8:board_sht30_read	48	static
